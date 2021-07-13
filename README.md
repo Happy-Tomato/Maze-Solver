@@ -1,5 +1,7 @@
 # Maze-Solver
 
+Please Run the gui.py file and NOT the maze.py file. 
+
 This is a project made in Python using the Tkinter GUI Toolkit. 
 THe Algorithm used for the path finding is "Dijsktra's Algorithm" which was invented by Edsger W. Dijkstra in 1956.
 
